@@ -23,7 +23,7 @@
  * TODO screen Z-space still isn't standardized; the origin ought to be elsewhere, and the camera should do its own thing
  *
  * TODO shadows
- * December 2020
+ * written December 2020 by Thomas Pinkava
 */
 
 
