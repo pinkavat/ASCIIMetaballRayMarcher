@@ -3,6 +3,8 @@
 Quick-and-dirty test proof-of-concept for 3D metaball raymarching.
 Renders several test metaballs in motion to the terminal in ASCII (because other rendering options were not immediately available)
 
+![Example image of output](example.png)
+
 ## Installation
 
 Requires NCURSES.
